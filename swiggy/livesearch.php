@@ -17,10 +17,10 @@ if (strlen($q)>0) {
       //find a link matching the search text
       if (stristr($y->item(0)->childNodes->item(0)->nodeValue,$q)) {
         if ($hint=="") {
-          $hint="<a href='index.html' target='_blank'>" . 
+          $hint="<a href='home.html' target='_blank'>" . 
           $y->item(0)->childNodes->item(0)->nodeValue . "</a>";
         } else  {
-          $hint=$hint . "<br /><a href=' index.html' target='_blank'>" . 
+          $hint=$hint . "<br /><a href=' home.html' target='_blank'>" . 
           $y->item(0)->childNodes->item(0)->nodeValue . "</a>";
         }
       }
