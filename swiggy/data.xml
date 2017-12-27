@@ -1,0 +1,150 @@
+<pages>
+
+ 
+ 
+	<link><title value="AF">Afghanistan</title></link>
+	<link><title value="AX">Åland Islands</title></link>	
+	<link><title value="AL">Albania</title></link>	
+	<link><title value="DZ">Algeria</title></link>	
+	<link><title value="AS">American Samoa</title></link>	
+	<link><title value="AD">Andorra</title></link>	
+	<link><title value="AO">Angola</title></link>	
+	
+	<link><title value="BS">Bahamas</title></link>	
+	<link><title value="BH">Bahrain</title></link>	
+	<link><title value="BD">Bangladesh</title></link>	
+	<link><title value="BB">Barbados</title></link>	
+	<link><title value="BY">Belarus</title></link>	
+	<link><title value="BE">Belgium</title></link>	
+	<link><title value="BZ">Belize</title></link>	
+
+	<link><title value="KM">Comoros</title></link>	
+	<link><title value="CG">Congo</title></link>	
+	<link><title value="CD">Congo, the Democratic Republic of the</title></link>	
+	<link><title value="CK">Cook Islands</title></link>	
+	<link><title value="CR">Costa Rica</title></link>	
+	<link><title value="CI">Côte d'Ivoire</title></link>	
+	<link><title value="HR">Croatia</title></link>	
+		
+	<link><title value="DK">Denmark</title></link>	
+	<link><title value="DJ">Djibouti</title></link>	
+	<link><title value="DM">Dominica</title></link>	
+	<link><title value="DO">Dominican Republic</title></link>	
+	
+	<link><title value="GQ">Equatorial Guinea</title></link>	
+	<link><title value="ER">Eritrea</title></link>	
+	<link><title value="EE">Estonia</title></link>	
+	<link><title value="ET">Ethiopia</title></link>	
+	
+	<link><title value="FI">Finland</title></link>	
+	<link><title value="FR">France</title></link>	
+	<link><title value="GF">French Guiana</title></link>	
+	<link><title value="PF">French Polynesia</title></link>	
+	<link><title value="TF">French Southern Territories</title></link>	
+	
+	<link><title value="GP">Guadeloupe</title></link>	
+	<link><title value="GU">Guam</title></link>	
+	<link><title value="GT">Guatemala</title></link>	
+	<link><title value="GG">Guernsey</title></link>	
+	<link><title value="GN">Guinea</title></link>	
+	<link><title value="GW">Guinea-Bissau</title></link>	
+	
+	<link><title value="VA">Holy See (Vatican City State)</title></link>	
+	<link><title value="HN">Honduras</title></link>	
+	<link><title value="HK">Hong Kong</title></link>	
+	<link><title value="HU">Hungary</title></link>	
+	
+	<link><title value="IS">Iceland</title></link>	
+	<link><title value="IN">India</title></link>	
+	<link><title value="ID">Indonesia</title></link>	
+	<link><title value="IR">Iran, Islamic Republic of</title></link>	
+	<link><title value="IQ">Iraq</title></link>		
+	
+	<link><title value="JM">Jamaica</title></link>	
+	<link><title value="JP">Japan</title></link>	
+	<link><title value="JE">Jersey</title></link>	
+	<link><title value="JO">Jordan</title></link>	
+	
+	<link><title value="KZ">Kazakhstan</title></link>	
+	<link><title value="KE">Kenya</title></link>	
+	<link><title value="KI">Kiribati</title></link>	
+	<link><title value="KP">Korea, Democratic People's Republic of</title></link>	
+	<link><title value="KR">Korea, Republic of</title></link>	
+	<link><title value="KW">Kuwait</title></link>	
+
+	<link><title value="LV">Latvia</title></link>	
+	<link><title value="LB">Lebanon</title></link>	
+	<link><title value="LS">Lesotho</title></link>	
+	<link><title value="LR">Liberia</title></link>	
+	<link><title value="LY">Libya</title></link>	
+	<link><title value="LI">Liechtenstein</title></link>	
+	
+	<link><title value="MY">Malaysia</title></link>	
+	<link><title value="MV">Maldives</title></link>	
+	<link><title value="ML">Mali</title></link>	
+	<link><title value="MT">Malta</title></link>	
+	<link><title value="MH">Marshall Islands</title></link>	
+	<link><title value="MQ">Martinique</title></link>	
+	<link><title value="MM">Myanmar</title></link>	
+		
+	<link><title value="NZ">New Zealand</title></link>	
+	<link><title value="NI">Nicaragua</title></link>	
+	<link><title value="NE">Niger</title></link>	
+	<link><title value="NG">Nigeria</title></link>	
+	<link><title value="NU">Niue</title></link>	
+	<link><title value="NF">Norfolk Island</title></link>	
+
+	<link><title value="PE">Peru</title></link>	
+	<link><title value="PH">Philippines</title></link>	
+	<link><title value="PN">Pitcairn</title></link>	
+	<link><title value="PL">Poland</title></link>	
+	<link><title value="PT">Portugal</title></link>	
+	<link><title value="PR">Puerto Rico</title></link>
+	
+	<link><title value="QA">Qatar</title></link>	
+	
+	<link><title value="RO">Romania</title></link>	
+	<link><title value="RU">Russian Federation</title></link>	
+	<link><title value="RW">Rwanda</title></link>	
+	
+	<link><title value="ZA">South Africa</title></link>	
+	<link><title value="GS">South Georgia and the South Sandwich Islands</title></link>	
+	<link><title value="SS">South Sudan</title></link>	
+	<link><title value="ES">Spain</title></link>	
+	<link><title value="LK">Sri Lanka</title></link>	
+	<link><title value="SD">Sudan</title></link>	
+	<link><title value="SR">Suriname</title></link>	
+	<link><title value="SJ">Svalbard and Jan Mayen</title></link>	
+	<link><title value="SZ">Swaziland</title></link>	
+	<link><title value="SE">Sweden</title></link>	
+	<link><title value="CH">Switzerland</title></link>	
+	
+	<link><title value="TH">Thailand</title></link>	
+	<link><title value="TL">Timor-Leste</title></link>	
+	<link><title value="TG">Togo</title></link>	
+	<link><title value="TK">Tokelau</title></link>	
+	<link><title value="TO">Tonga</title></link>	
+	<link><title value="TT">Trinidad and Tobago</title></link>	
+	<link><title value="TN">Tunisia</title></link>	
+	<link><title value="TR">Turkey</title></link>	
+
+	<link><title value="GB">United Kingdom</title></link>	
+	<link><title value="US">United States</title></link>	
+	<link><title value="UM">United States Minor Outlying Islands</title></link>	
+	<link><title value="UY">Uruguay</title></link>	
+	<link><title value="UZ">Uzbekistan</title></link>	
+	
+	<link><title value="VU">Vanuatu</title></link>	
+	<link><title value="VE">Venezuela, Bolivarian Republic of</title></link>	
+	<link><title value="VN">Viet Nam</title></link>	
+	<link><title value="VG">Virgin Islands, British</title></link>	
+	<link><title value="VI">Virgin Islands, U.S.</title></link>	
+	
+	<link><title value="WF">Wallis and Futuna</title></link>	
+	<link><title value="EH">Western Sahara</title></link>	
+	
+	<link><title value="YE">Yemen</title></link>	
+	
+	<link><title value="ZM">Zambia</title></link>	
+	<link><title value="ZW">Zimbabwe</title></link>
+</pages>

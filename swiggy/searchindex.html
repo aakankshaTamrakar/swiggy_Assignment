@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>ZR mindz test</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link rel="stylesheet" href="jquery-ui.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="jquery-ui.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+
+<style>
+body
+{
+ background: url(img/ny.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  }
+
+</style>
+<body>
+
+<div class="home" style="width:100%;">
+<nav class="navbar navbar-default" data-spy="affix" data-offset-top="197" style="background:none; border:#fff; height:65px;">
+	  
+<div class="container">
+<div class="col-md-12">
+
+<div class="col-md-8">
+<img src="img/swiggy.png" style="width:140px; height:40px; margin-top:20px;">
+</div>
+
+<div class="col-md-4 hidden-xs">
+<div style="margin-top:30px;">
+<a href="" style="color:#F5861F;">we are hiring</a> &nbsp &nbsp
+Get app: <i class="fa fa-apple" style="font-size:15px;"></i> &nbsp
+<i class="fa fa-android" style="font-size:15px;"></i> &nbsp &nbsp
+<button type="button" class="btn" style="width:80px; height:30px; border: 1px solid #000; background:none;">Login</button>
+</div>
+</div>
+
+</div>
+</div>
+</nav>
+
+</div>
+
+<div class="container">
+<div class="col-md-12">
+<br><br><br>
+<h1 style="color:#fff; text-shadow: 2px 2px 2px #888888;"><center>Order from restaurants near you</center></h1>
+<br>
+<div class="col-md-2"></div>
+<div class="col-md-8">
+    
+	<div class="input-group" style="width:100%; ">
+      <input type="text" class="form-control" id="country" placeholder="Search for..." style="height:60px;;">
+      <span class="input-group-btn">
+      <button class="btn btn-default" type="button" style="height:60px; background-color:#F5861F; border:#F5861F; COLOR:#FFF;">SHOW RESTAURENTS</button>
+      </span>
+    </div><!-- /input-group -->
+	
+	<h6 style="color:#fff;"><center>WE DELIVER IN Ahmedabad, Bangalore, Chennai, Delhi, Gurgaon, Hyderabad, Kolkata, Mumbai & Pune</center></h6>
+	
+ <!-- /.col-lg-6 -->
+</div><!-- /.row -->
+</div>
+</div>
+
+<br><br><br><br><br><br>
+<div class="container-fluid" style="background-color:#fff;">
+
+</div>
+
+<script type="text/javascript">
+var countryname = ["a","aa","aaa","VIBHU","b","bb","bbb"];
+$(document).ready(function(){
+								$("#country").autocomplete({source:countryname});
+								});
+								</script>
+							
+</body>
